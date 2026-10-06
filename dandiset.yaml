@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: 'Silkuniene, Giedre; Semenov, Iurii; Pakhomov, Andrei (2026) Plasma Membrane
   Polarization Dynamics of CHO Cells During 1 us Pulses: Effects of Cell Size and
-  Electric Field Strength (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001515/draft'
+  Electric Field Strength (Version 0.261006.1841) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001515/0.261006.1841'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -53,19 +53,33 @@ contributor:
   name: Pakhomov, Andrei
   schemaKey: Person
 dateCreated: '2025-06-27T15:52:32.136569+00:00'
+datePublished: '2026-10-06T18:41:16.353754+00:00'
 description: This experimental series investigated the plasma membrane polarization
   dynamics—specifically charging and discharging behavior—of CHO cells exposed to
   1 us electric pulses, with a focus on how these dynamics vary with cell size and
   electric field strength.
+doi: 10.48324/dandi.001515/0.261006.1841
 ethicsApproval: []
-id: DANDI:001515/draft
+id: DANDI:001515/0.261006.1841
 identifier: DANDI:001515
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001515/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001515/0.261006.1841/assets.yaml
 name: 'Plasma Membrane Polarization Dynamics of CHO Cells During 1 us Pulses: Effects
   of Cell Size and Electric Field Strength'
+publishedBy:
+  endDate: '2026-10-06T18:41:16.353754+00:00'
+  id: urn:uuid:1c2e527f-2df4-4314-8a45-c8a02b0ccf0c
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-06T18:41:16.353754+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b130edde-3312-49b0-ab43-b04f2d7562e9
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1016/j.bioelechem.2026.109283
   name: Sub-microsecond optical measurements of cell membrane charging and lesioning
@@ -76,8 +90,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001515/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001515/0.261006.1841
+version: 0.261006.1841
 wasGeneratedBy:
 - description: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
   identifier: 5R21EY034803
